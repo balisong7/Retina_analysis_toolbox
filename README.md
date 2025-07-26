@@ -1,4 +1,4 @@
-This is a self-developed open-source imageJFIJI multi-function toolbox for academic use that can measure image resolutions, multi-sublayer thickness (up to 20 sublayers), cell numbers, and free distances on OCT/histology/immunostaining cross-section slides of retinae as well as performing batch image processing on selected folders, both fully automatically or machine-assisted.
+This is a self-developed, user-interactive, open-source imageJFIJI multi-function toolbox for academic use that can measure image resolutions, multi-sublayer thickness (up to 20 sublayers), cell numbers, and free distances on OCT/histology/immunostaining cross-section slides of retinae as well as performing batch image processing on selected folders, both fully automatically or machine-assisted.
 
 1. Paste the unzipped folder under your ImageJFiji's subfolder "scripts/" then restart ImageJFiji to find the plugin now sitting in the header menu.   
 2. Install the toolbox by clicking the "Install" option in the dropdown list. Let the self-installation coding run by itself.  
